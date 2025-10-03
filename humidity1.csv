@@ -1,0 +1,1826 @@
+_time,value,resourceName
+10/1/24 0:00,85.64,Humidity
+10/1/24 4:00,84.37,Humidity
+10/1/24 8:00,73.82,Humidity
+10/1/24 12:00,37.54,Humidity
+10/1/24 16:00,37.13,Humidity
+10/1/24 20:00,69.16,Humidity
+10/2/24 0:00,78.11,Humidity
+10/2/24 4:00,67.78,Humidity
+10/2/24 8:00,59.54,Humidity
+10/2/24 12:00,39.76,Humidity
+10/2/24 16:00,65.57,Humidity
+10/2/24 20:00,81.08,Humidity
+10/3/24 0:00,84.28,Humidity
+10/3/24 4:00,87.08,Humidity
+10/3/24 8:00,71.97,Humidity
+10/3/24 12:00,25.14,Humidity
+10/3/24 16:00,43.94,Humidity
+10/3/24 20:00,67.72,Humidity
+10/4/24 0:00,66.47,Humidity
+10/4/24 4:00,64.25,Humidity
+10/4/24 8:00,55.72,Humidity
+10/4/24 12:00,30.6,Humidity
+10/4/24 16:00,42.07,Humidity
+10/4/24 20:00,70,Humidity
+10/5/24 0:00,71.32,Humidity
+10/5/24 4:00,71.96,Humidity
+10/5/24 8:00,68.57,Humidity
+10/5/24 12:00,42.28,Humidity
+10/5/24 16:00,48.97,Humidity
+10/5/24 20:00,60.4,Humidity
+10/6/24 0:00,70.82,Humidity
+10/6/24 4:00,80.77,Humidity
+10/6/24 8:00,67.46,Humidity
+10/6/24 12:00,31.72,Humidity
+10/6/24 16:00,42.36,Humidity
+10/6/24 20:00,70.02,Humidity
+10/7/24 0:00,84.18,Humidity
+10/7/24 4:00,86.53,Humidity
+10/7/24 8:00,72.89,Humidity
+10/7/24 12:00,34.61,Humidity
+10/7/24 16:00,46.39,Humidity
+10/7/24 20:00,54.1,Humidity
+10/8/24 0:00,62.15,Humidity
+10/8/24 4:00,68.71,Humidity
+10/8/24 8:00,61.55,Humidity
+10/8/24 12:00,32.76,Humidity
+10/8/24 16:00,40.34,Humidity
+10/8/24 20:00,81.32,Humidity
+10/9/24 0:00,86.43,Humidity
+10/9/24 4:00,83.16,Humidity
+10/9/24 8:00,74.95,Humidity
+10/9/24 12:00,33.81,Humidity
+10/9/24 16:00,39.77,Humidity
+10/9/24 20:00,62.08,Humidity
+10/10/24 0:00,78.03,Humidity
+10/10/24 4:00,62.02,Humidity
+10/10/24 8:00,40.68,Humidity
+10/10/24 12:00,32.19,Humidity
+10/10/24 16:00,42.83,Humidity
+10/10/24 20:00,67.27,Humidity
+10/11/24 0:00,76.17,Humidity
+10/11/24 4:00,76.74,Humidity
+10/11/24 8:00,69.88,Humidity
+10/11/24 12:00,42.87,Humidity
+10/11/24 16:00,43.73,Humidity
+10/11/24 20:00,66.89,Humidity
+10/12/24 0:00,76.56,Humidity
+10/12/24 4:00,82.16,Humidity
+10/12/24 8:00,72.74,Humidity
+10/12/24 12:00,44.27,Humidity
+10/12/24 16:00,52.62,Humidity
+10/12/24 20:00,71.38,Humidity
+10/13/24 0:00,83.09,Humidity
+10/13/24 4:00,80.68,Humidity
+10/13/24 8:00,69.69,Humidity
+10/13/24 12:00,36.51,Humidity
+10/13/24 16:00,34.5,Humidity
+10/13/24 20:00,68.09,Humidity
+10/14/24 0:00,87.81,Humidity
+10/14/24 4:00,89.57,Humidity
+10/14/24 8:00,76.7,Humidity
+10/14/24 12:00,38.17,Humidity
+10/14/24 16:00,48.11,Humidity
+10/14/24 20:00,66.64,Humidity
+10/15/24 0:00,86.23,Humidity
+10/15/24 4:00,89.04,Humidity
+10/15/24 8:00,81.6,Humidity
+10/15/24 12:00,24.37,Humidity
+10/15/24 16:00,37.77,Humidity
+10/15/24 20:00,68.93,Humidity
+10/16/24 0:00,77.03,Humidity
+10/16/24 4:00,83.57,Humidity
+10/16/24 8:00,77.65,Humidity
+10/16/24 12:00,39.23,Humidity
+10/16/24 16:00,40.59,Humidity
+10/16/24 20:00,67.06,Humidity
+10/17/24 0:00,67.4,Humidity
+10/17/24 4:00,76.25,Humidity
+10/17/24 8:00,66.02,Humidity
+10/17/24 12:00,42.61,Humidity
+10/17/24 16:00,60.37,Humidity
+10/17/24 20:00,69.95,Humidity
+10/18/24 0:00,87.5,Humidity
+10/18/24 4:00,87.39,Humidity
+10/18/24 8:00,72.18,Humidity
+10/18/24 12:00,67.31,Humidity
+10/18/24 16:00,85.84,Humidity
+10/18/24 20:00,85.01,Humidity
+10/19/24 0:00,80.31,Humidity
+10/19/24 4:00,77.11,Humidity
+10/19/24 8:00,74.1,Humidity
+10/19/24 12:00,52.43,Humidity
+10/19/24 16:00,61.77,Humidity
+10/19/24 20:00,75.65,Humidity
+10/20/24 0:00,77.6,Humidity
+10/20/24 4:00,80.93,Humidity
+10/20/24 8:00,70.92,Humidity
+10/20/24 12:00,54.25,Humidity
+10/20/24 16:00,66.62,Humidity
+10/20/24 20:00,76.23,Humidity
+10/21/24 0:00,83.99,Humidity
+10/21/24 4:00,85.68,Humidity
+10/21/24 8:00,82.5,Humidity
+10/21/24 12:00,56.95,Humidity
+10/21/24 16:00,61.33,Humidity
+10/21/24 20:00,78.17,Humidity
+10/22/24 0:00,82.98,Humidity
+10/22/24 4:00,85.43,Humidity
+10/22/24 8:00,79.75,Humidity
+10/22/24 12:00,66.53,Humidity
+10/22/24 16:00,70.69,Humidity
+10/22/24 20:00,89.42,Humidity
+10/23/24 0:00,86.02,Humidity
+10/23/24 4:00,87.92,Humidity
+10/23/24 8:00,86.82,Humidity
+10/23/24 12:00,64.6,Humidity
+10/23/24 16:00,76.01,Humidity
+10/23/24 20:00,87.69,Humidity
+10/24/24 0:00,86.19,Humidity
+10/24/24 4:00,87.23,Humidity
+10/24/24 8:00,82.28,Humidity
+10/24/24 12:00,53.84,Humidity
+10/24/24 16:00,58.75,Humidity
+10/24/24 20:00,74.6,Humidity
+10/25/24 0:00,77.64,Humidity
+10/25/24 4:00,79.14,Humidity
+10/25/24 8:00,72.23,Humidity
+10/25/24 12:00,44.8,Humidity
+10/25/24 16:00,53.28,Humidity
+10/25/24 20:00,67.32,Humidity
+10/26/24 0:00,71.3,Humidity
+10/26/24 4:00,72.37,Humidity
+10/26/24 8:00,64.62,Humidity
+10/26/24 12:00,48.25,Humidity
+10/26/24 16:00,56.32,Humidity
+10/26/24 20:00,78.73,Humidity
+10/27/24 0:00,85.28,Humidity
+10/27/24 4:00,87.01,Humidity
+10/27/24 8:00,81.37,Humidity
+10/27/24 12:00,63.21,Humidity
+10/27/24 16:00,66.9,Humidity
+10/27/24 20:00,70.51,Humidity
+10/28/24 0:00,73.77,Humidity
+10/28/24 4:00,77.26,Humidity
+10/28/24 8:00,68.4,Humidity
+10/28/24 12:00,55.87,Humidity
+10/28/24 16:00,59.07,Humidity
+10/28/24 20:00,76.6,Humidity
+10/29/24 0:00,82.01,Humidity
+10/29/24 4:00,85.42,Humidity
+10/29/24 8:00,73.48,Humidity
+10/29/24 12:00,53.97,Humidity
+10/29/24 16:00,53.18,Humidity
+10/29/24 20:00,77.45,Humidity
+10/30/24 0:00,85.4,Humidity
+10/30/24 4:00,86.77,Humidity
+10/30/24 8:00,86.39,Humidity
+10/30/24 12:00,56.15,Humidity
+10/30/24 16:00,61,Humidity
+10/30/24 20:00,79.11,Humidity
+10/31/24 0:00,86.57,Humidity
+10/31/24 4:00,85.43,Humidity
+10/31/24 8:00,82.87,Humidity
+10/31/24 12:00,59.42,Humidity
+10/31/24 16:00,58.75,Humidity
+10/31/24 20:00,82.46,Humidity
+11/1/24 0:00,83.2,Humidity
+11/1/24 4:00,83.88,Humidity
+11/1/24 8:00,75.58,Humidity
+11/1/24 12:00,51.94,Humidity
+11/1/24 16:00,60.35,Humidity
+11/1/24 20:00,79.22,Humidity
+11/2/24 0:00,83.03,Humidity
+11/2/24 4:00,82.02,Humidity
+11/2/24 8:00,79.04,Humidity
+11/2/24 12:00,49.21,Humidity
+11/2/24 16:00,53.63,Humidity
+11/2/24 20:00,78.29,Humidity
+11/3/24 0:00,84.51,Humidity
+11/3/24 4:00,88.9,Humidity
+11/3/24 8:00,90.28,Humidity
+11/3/24 12:00,55.6,Humidity
+11/3/24 16:00,68.57,Humidity
+11/3/24 20:00,81.69,Humidity
+11/4/24 0:00,78.14,Humidity
+11/4/24 4:00,88.95,Humidity
+11/4/24 8:00,86.53,Humidity
+11/4/24 12:00,54.13,Humidity
+11/4/24 16:00,65.12,Humidity
+11/4/24 20:00,85,Humidity
+11/5/24 0:00,90.43,Humidity
+11/5/24 4:00,90.5,Humidity
+11/5/24 8:00,89.85,Humidity
+11/5/24 12:00,64.27,Humidity
+11/5/24 16:00,69.26,Humidity
+11/5/24 20:00,83.03,Humidity
+11/6/24 0:00,88.29,Humidity
+11/6/24 4:00,88.33,Humidity
+11/6/24 8:00,88.49,Humidity
+11/6/24 12:00,64.71,Humidity
+11/6/24 16:00,65.48,Humidity
+11/6/24 20:00,87.43,Humidity
+11/7/24 0:00,89.04,Humidity
+11/7/24 4:00,88.05,Humidity
+11/7/24 8:00,81.9,Humidity
+11/7/24 12:00,55.59,Humidity
+11/7/24 16:00,82.97,Humidity
+11/7/24 20:00,85.72,Humidity
+11/8/24 0:00,86.83,Humidity
+11/8/24 4:00,81.34,Humidity
+11/8/24 8:00,70.39,Humidity
+11/8/24 12:00,44.51,Humidity
+11/8/24 16:00,44.74,Humidity
+11/8/24 20:00,85.27,Humidity
+11/9/24 0:00,88.96,Humidity
+11/9/24 4:00,89.91,Humidity
+11/9/24 8:00,88.53,Humidity
+11/9/24 12:00,55.3,Humidity
+11/9/24 16:00,70.08,Humidity
+11/9/24 20:00,85.72,Humidity
+11/10/24 0:00,87.53,Humidity
+11/10/24 4:00,86.01,Humidity
+11/10/24 8:00,87.45,Humidity
+11/10/24 12:00,64.88,Humidity
+11/10/24 16:00,79.66,Humidity
+11/10/24 20:00,89.46,Humidity
+11/11/24 0:00,86.54,Humidity
+11/11/24 4:00,87.15,Humidity
+11/11/24 8:00,86.87,Humidity
+11/11/24 12:00,65.57,Humidity
+11/11/24 16:00,73.43,Humidity
+11/11/24 20:00,84.31,Humidity
+11/12/24 0:00,85.87,Humidity
+11/12/24 4:00,87.07,Humidity
+11/12/24 8:00,86.71,Humidity
+11/12/24 12:00,59.28,Humidity
+11/12/24 16:00,78.55,Humidity
+11/12/24 20:00,83.67,Humidity
+11/13/24 0:00,85.94,Humidity
+11/13/24 4:00,87.23,Humidity
+11/13/24 8:00,85.14,Humidity
+11/13/24 12:00,57.89,Humidity
+11/13/24 16:00,53.07,Humidity
+11/13/24 20:00,76.17,Humidity
+11/14/24 0:00,84.6,Humidity
+11/14/24 4:00,84.74,Humidity
+11/14/24 8:00,78.37,Humidity
+11/14/24 12:00,53.12,Humidity
+11/14/24 16:00,52.63,Humidity
+11/14/24 20:00,80.28,Humidity
+11/15/24 0:00,90.61,Humidity
+11/15/24 4:00,86.08,Humidity
+11/15/24 8:00,83.62,Humidity
+11/15/24 12:00,65.32,Humidity
+11/15/24 16:00,66.67,Humidity
+11/15/24 20:00,78.71,Humidity
+11/16/24 0:00,77.55,Humidity
+11/16/24 4:00,83.91,Humidity
+11/16/24 8:00,79.33,Humidity
+11/16/24 12:00,55.18,Humidity
+11/16/24 16:00,58.73,Humidity
+11/16/24 20:00,74.49,Humidity
+11/17/24 0:00,81.1,Humidity
+11/17/24 4:00,85.79,Humidity
+11/17/24 8:00,86.76,Humidity
+11/17/24 12:00,59.49,Humidity
+11/17/24 16:00,58.38,Humidity
+11/17/24 20:00,70.88,Humidity
+11/18/24 0:00,77.94,Humidity
+11/18/24 4:00,78.18,Humidity
+11/18/24 8:00,77.06,Humidity
+11/18/24 12:00,61.38,Humidity
+11/18/24 16:00,62.52,Humidity
+11/18/24 20:00,79.73,Humidity
+11/19/24 0:00,86.09,Humidity
+11/19/24 4:00,84.64,Humidity
+11/19/24 8:00,86.45,Humidity
+11/19/24 12:00,65.03,Humidity
+11/19/24 16:00,61.3,Humidity
+11/19/24 20:00,77.47,Humidity
+11/20/24 0:00,80.09,Humidity
+11/20/24 4:00,78.32,Humidity
+11/20/24 8:00,72.9,Humidity
+11/20/24 12:00,51.33,Humidity
+11/20/24 16:00,49.12,Humidity
+11/20/24 20:00,68.21,Humidity
+11/21/24 0:00,72.33,Humidity
+11/21/24 4:00,73.48,Humidity
+11/21/24 8:00,73.38,Humidity
+11/21/24 12:00,58.86,Humidity
+11/21/24 16:00,54.87,Humidity
+11/21/24 20:00,78.16,Humidity
+11/22/24 0:00,69.86,Humidity
+11/22/24 4:00,63.61,Humidity
+11/22/24 8:00,59.14,Humidity
+11/22/24 12:00,43.51,Humidity
+11/22/24 16:00,64.44,Humidity
+11/22/24 20:00,70.24,Humidity
+11/23/24 0:00,62.85,Humidity
+11/23/24 4:00,57.57,Humidity
+11/23/24 8:00,64.23,Humidity
+11/23/24 12:00,43.75,Humidity
+11/23/24 16:00,51.4,Humidity
+11/23/24 20:00,66.97,Humidity
+11/24/24 0:00,77.89,Humidity
+11/24/24 4:00,79.59,Humidity
+11/24/24 8:00,83.11,Humidity
+11/24/24 12:00,53.05,Humidity
+11/24/24 16:00,51.26,Humidity
+11/24/24 20:00,73.34,Humidity
+11/25/24 0:00,82.22,Humidity
+11/25/24 4:00,85.24,Humidity
+11/25/24 8:00,84.5,Humidity
+11/25/24 12:00,56.06,Humidity
+11/25/24 16:00,52.37,Humidity
+11/25/24 20:00,57.88,Humidity
+11/26/24 0:00,65.46,Humidity
+11/26/24 4:00,71.65,Humidity
+11/26/24 8:00,76.57,Humidity
+11/26/24 12:00,53.92,Humidity
+11/26/24 16:00,59.41,Humidity
+11/26/24 20:00,81.4,Humidity
+11/27/24 0:00,80.12,Humidity
+11/27/24 4:00,78.37,Humidity
+11/27/24 8:00,75.29,Humidity
+11/27/24 12:00,50.53,Humidity
+11/27/24 16:00,57.39,Humidity
+11/27/24 20:00,77.14,Humidity
+11/28/24 0:00,78.32,Humidity
+11/28/24 4:00,83,Humidity
+11/28/24 8:00,86.69,Humidity
+11/28/24 12:00,79.99,Humidity
+11/28/24 16:00,64.08,Humidity
+11/28/24 20:00,86.85,Humidity
+11/29/24 0:00,85.58,Humidity
+11/29/24 4:00,89.59,Humidity
+11/29/24 8:00,88.64,Humidity
+11/29/24 12:00,63.41,Humidity
+11/29/24 16:00,55.87,Humidity
+11/29/24 20:00,72.48,Humidity
+11/30/24 0:00,79.59,Humidity
+11/30/24 4:00,82.77,Humidity
+11/30/24 8:00,82.85,Humidity
+11/30/24 12:00,50.3,Humidity
+11/30/24 16:00,52.45,Humidity
+11/30/24 20:00,69.4,Humidity
+12/1/24 0:00,69.44,Humidity
+12/1/24 4:00,73.43,Humidity
+12/1/24 8:00,76.08,Humidity
+12/1/24 12:00,44.96,Humidity
+12/1/24 16:00,49.58,Humidity
+12/1/24 20:00,65.45,Humidity
+12/2/24 0:00,71.62,Humidity
+12/2/24 4:00,77.19,Humidity
+12/2/24 8:00,84.05,Humidity
+12/2/24 12:00,53.31,Humidity
+12/2/24 16:00,54.33,Humidity
+12/2/24 20:00,68.01,Humidity
+12/3/24 0:00,80.05,Humidity
+12/3/24 4:00,85.33,Humidity
+12/3/24 8:00,83.02,Humidity
+12/3/24 12:00,69.39,Humidity
+12/3/24 16:00,60.54,Humidity
+12/3/24 20:00,76.83,Humidity
+12/4/24 0:00,82.76,Humidity
+12/4/24 4:00,86.46,Humidity
+12/4/24 8:00,83.98,Humidity
+12/4/24 12:00,63.15,Humidity
+12/4/24 16:00,70.91,Humidity
+12/4/24 20:00,85.29,Humidity
+12/5/24 0:00,80.32,Humidity
+12/5/24 4:00,78.23,Humidity
+12/5/24 8:00,67.89,Humidity
+12/5/24 12:00,57.5,Humidity
+12/5/24 16:00,53.44,Humidity
+12/5/24 20:00,56.19,Humidity
+12/6/24 0:00,59.32,Humidity
+12/6/24 4:00,57.53,Humidity
+12/6/24 8:00,59.75,Humidity
+12/6/24 12:00,53.08,Humidity
+12/6/24 16:00,68.66,Humidity
+12/6/24 20:00,59.42,Humidity
+12/7/24 0:00,70.53,Humidity
+12/7/24 4:00,68.28,Humidity
+12/7/24 8:00,75.78,Humidity
+12/7/24 12:00,50.76,Humidity
+12/7/24 16:00,56.1,Humidity
+12/7/24 20:00,82.01,Humidity
+12/8/24 0:00,73.98,Humidity
+12/8/24 4:00,78.52,Humidity
+12/8/24 8:00,75.72,Humidity
+12/8/24 12:00,55.47,Humidity
+12/8/24 16:00,67.92,Humidity
+12/8/24 20:00,67.16,Humidity
+12/9/24 0:00,66.99,Humidity
+12/9/24 4:00,67.94,Humidity
+12/9/24 8:00,69.58,Humidity
+12/9/24 12:00,51.83,Humidity
+12/9/24 16:00,49.64,Humidity
+12/9/24 20:00,71.15,Humidity
+12/10/24 0:00,76.83,Humidity
+12/10/24 4:00,76.06,Humidity
+12/10/24 8:00,72.33,Humidity
+12/10/24 12:00,48.49,Humidity
+12/10/24 16:00,52.35,Humidity
+12/10/24 20:00,67.66,Humidity
+12/11/24 0:00,78.99,Humidity
+12/11/24 4:00,80.9,Humidity
+12/11/24 8:00,75.77,Humidity
+12/11/24 12:00,53.87,Humidity
+12/11/24 16:00,64.36,Humidity
+12/11/24 20:00,84.13,Humidity
+12/12/24 0:00,77.12,Humidity
+12/12/24 4:00,83.4,Humidity
+12/12/24 8:00,84.6,Humidity
+12/12/24 12:00,74.68,Humidity
+12/12/24 16:00,68.81,Humidity
+12/12/24 20:00,85.11,Humidity
+12/13/24 0:00,89.27,Humidity
+12/13/24 4:00,90.48,Humidity
+12/13/24 8:00,90.01,Humidity
+12/13/24 12:00,74.88,Humidity
+12/13/24 16:00,66.73,Humidity
+12/13/24 20:00,78.79,Humidity
+12/14/24 0:00,86.87,Humidity
+12/14/24 4:00,89.01,Humidity
+12/14/24 8:00,84.91,Humidity
+12/14/24 12:00,63.74,Humidity
+12/14/24 16:00,54.7,Humidity
+12/14/24 20:00,74.57,Humidity
+12/15/24 0:00,79.26,Humidity
+12/15/24 4:00,80.35,Humidity
+12/15/24 8:00,81.4,Humidity
+12/15/24 12:00,65.24,Humidity
+12/15/24 16:00,62.04,Humidity
+12/15/24 20:00,65.1,Humidity
+12/16/24 0:00,71.7,Humidity
+12/16/24 4:00,74.76,Humidity
+12/16/24 8:00,74.04,Humidity
+12/16/24 12:00,47.25,Humidity
+12/16/24 16:00,55.58,Humidity
+12/16/24 20:00,70.91,Humidity
+12/17/24 0:00,74.9,Humidity
+12/17/24 4:00,74.44,Humidity
+12/17/24 8:00,76.2,Humidity
+12/17/24 12:00,65.91,Humidity
+12/17/24 16:00,61.78,Humidity
+12/17/24 20:00,72.75,Humidity
+12/18/24 0:00,84.83,Humidity
+12/18/24 4:00,83.19,Humidity
+12/18/24 8:00,84.14,Humidity
+12/18/24 12:00,64.61,Humidity
+12/18/24 16:00,70.11,Humidity
+12/18/24 20:00,80.54,Humidity
+12/19/24 0:00,80.45,Humidity
+12/19/24 4:00,79.34,Humidity
+12/19/24 8:00,73.56,Humidity
+12/19/24 12:00,57.12,Humidity
+12/19/24 16:00,52.48,Humidity
+12/19/24 20:00,64.03,Humidity
+12/20/24 0:00,58.53,Humidity
+12/20/24 4:00,67.97,Humidity
+12/20/24 8:00,75.11,Humidity
+12/20/24 12:00,59.89,Humidity
+12/20/24 16:00,47.64,Humidity
+12/20/24 20:00,51.58,Humidity
+12/21/24 0:00,57.12,Humidity
+12/21/24 4:00,57.81,Humidity
+12/21/24 8:00,59.89,Humidity
+12/21/24 12:00,52.41,Humidity
+12/21/24 16:00,54.32,Humidity
+12/21/24 20:00,66.66,Humidity
+12/22/24 0:00,77.04,Humidity
+12/22/24 4:00,77.42,Humidity
+12/22/24 8:00,77.69,Humidity
+12/22/24 12:00,68.62,Humidity
+12/22/24 16:00,67.38,Humidity
+12/22/24 20:00,73.89,Humidity
+12/23/24 0:00,70.36,Humidity
+12/23/24 4:00,51.72,Humidity
+12/23/24 8:00,64.89,Humidity
+12/23/24 12:00,48.53,Humidity
+12/23/24 16:00,45.81,Humidity
+12/23/24 20:00,65.34,Humidity
+12/24/24 0:00,70.8,Humidity
+12/24/24 4:00,72.12,Humidity
+12/24/24 8:00,59.06,Humidity
+12/24/24 12:00,37.69,Humidity
+12/24/24 16:00,38.39,Humidity
+12/24/24 20:00,48.02,Humidity
+12/25/24 0:00,53.5,Humidity
+12/25/24 4:00,52.01,Humidity
+12/25/24 8:00,51.83,Humidity
+12/25/24 12:00,68.14,Humidity
+12/25/24 16:00,65.86,Humidity
+12/25/24 20:00,66.87,Humidity
+12/26/24 0:00,75.73,Humidity
+12/26/24 4:00,72.21,Humidity
+12/26/24 8:00,75.89,Humidity
+12/26/24 12:00,75.79,Humidity
+12/26/24 16:00,75.62,Humidity
+12/26/24 20:00,82.06,Humidity
+12/27/24 0:00,85.9,Humidity
+12/27/24 4:00,86.26,Humidity
+12/27/24 8:00,84.36,Humidity
+12/27/24 12:00,79.03,Humidity
+12/27/24 16:00,78.52,Humidity
+12/27/24 20:00,81.34,Humidity
+12/28/24 0:00,85.84,Humidity
+12/28/24 4:00,79.77,Humidity
+12/28/24 8:00,82.56,Humidity
+12/28/24 12:00,63.44,Humidity
+12/28/24 16:00,62.67,Humidity
+12/28/24 20:00,79.99,Humidity
+12/29/24 0:00,84.48,Humidity
+12/29/24 4:00,84.42,Humidity
+12/29/24 8:00,84.58,Humidity
+12/29/24 12:00,65.9,Humidity
+12/29/24 16:00,61.4,Humidity
+12/29/24 20:00,80.03,Humidity
+12/30/24 0:00,85.55,Humidity
+12/30/24 4:00,88.96,Humidity
+12/30/24 8:00,87.6,Humidity
+12/30/24 12:00,68.61,Humidity
+12/30/24 16:00,60.3,Humidity
+12/30/24 20:00,80.24,Humidity
+12/31/24 0:00,89.12,Humidity
+12/31/24 4:00,87.16,Humidity
+12/31/24 8:00,89,Humidity
+12/31/24 12:00,73.74,Humidity
+12/31/24 16:00,71.98,Humidity
+12/31/24 20:00,85.75,Humidity
+1/1/25 0:00,84.35,Humidity
+1/1/25 4:00,85.97,Humidity
+1/1/25 8:00,90.92,Humidity
+1/1/25 12:00,75.47,Humidity
+1/1/25 16:00,71.56,Humidity
+1/1/25 20:00,78.02,Humidity
+1/2/25 0:00,83.77,Humidity
+1/2/25 4:00,83.5,Humidity
+1/2/25 8:00,81.62,Humidity
+1/2/25 12:00,64.05,Humidity
+1/2/25 16:00,67.51,Humidity
+1/2/25 20:00,77.82,Humidity
+1/3/25 0:00,87.19,Humidity
+1/3/25 4:00,85.41,Humidity
+1/3/25 8:00,87.36,Humidity
+1/3/25 12:00,73.65,Humidity
+1/3/25 16:00,63.71,Humidity
+1/3/25 20:00,81,Humidity
+1/4/25 0:00,81.55,Humidity
+1/4/25 4:00,79.83,Humidity
+1/4/25 8:00,73.37,Humidity
+1/4/25 12:00,69.68,Humidity
+1/4/25 16:00,72.46,Humidity
+1/4/25 20:00,81.11,Humidity
+1/5/25 0:00,84.27,Humidity
+1/5/25 4:00,80.67,Humidity
+1/5/25 8:00,82.27,Humidity
+1/5/25 12:00,65.09,Humidity
+1/5/25 16:00,56.73,Humidity
+1/5/25 20:00,64.8,Humidity
+1/6/25 0:00,67.69,Humidity
+1/6/25 4:00,70.32,Humidity
+1/6/25 8:00,60.69,Humidity
+1/6/25 12:00,55.37,Humidity
+1/6/25 16:00,54.29,Humidity
+1/6/25 20:00,53.89,Humidity
+1/7/25 0:00,65.92,Humidity
+1/7/25 4:00,67.87,Humidity
+1/7/25 8:00,73.54,Humidity
+1/7/25 12:00,60.46,Humidity
+1/7/25 16:00,62.8,Humidity
+1/7/25 20:00,75.1,Humidity
+1/8/25 0:00,69.79,Humidity
+1/8/25 4:00,78.96,Humidity
+1/8/25 8:00,77.71,Humidity
+1/8/25 12:00,59.29,Humidity
+1/8/25 16:00,57.57,Humidity
+1/8/25 20:00,72.35,Humidity
+1/9/25 0:00,71.82,Humidity
+1/9/25 4:00,72.28,Humidity
+1/9/25 8:00,65.67,Humidity
+1/9/25 12:00,54.51,Humidity
+1/9/25 16:00,50.43,Humidity
+1/9/25 20:00,66.34,Humidity
+1/10/25 0:00,75.93,Humidity
+1/10/25 4:00,77.98,Humidity
+1/10/25 8:00,81.82,Humidity
+1/10/25 12:00,65.28,Humidity
+1/10/25 16:00,61.2,Humidity
+1/10/25 20:00,76.15,Humidity
+1/11/25 0:00,80.81,Humidity
+1/11/25 4:00,80.46,Humidity
+1/11/25 8:00,76.28,Humidity
+1/11/25 12:00,57.31,Humidity
+1/11/25 16:00,57.46,Humidity
+1/11/25 20:00,68.79,Humidity
+1/12/25 0:00,75.8,Humidity
+1/12/25 4:00,82.62,Humidity
+1/12/25 8:00,70.95,Humidity
+1/12/25 12:00,56.68,Humidity
+1/12/25 16:00,65.06,Humidity
+1/12/25 20:00,82.54,Humidity
+1/13/25 0:00,84.68,Humidity
+1/13/25 4:00,83.27,Humidity
+1/13/25 8:00,83.63,Humidity
+1/13/25 12:00,73.51,Humidity
+1/13/25 16:00,73.32,Humidity
+1/13/25 20:00,73.28,Humidity
+1/14/25 0:00,81.51,Humidity
+1/14/25 4:00,81.32,Humidity
+1/14/25 8:00,82.55,Humidity
+1/14/25 12:00,83.04,Humidity
+1/14/25 16:00,73.46,Humidity
+1/14/25 20:00,66.15,Humidity
+1/15/25 0:00,71.87,Humidity
+1/15/25 4:00,78.77,Humidity
+1/15/25 8:00,81.34,Humidity
+1/15/25 12:00,65.01,Humidity
+1/15/25 16:00,59.65,Humidity
+1/15/25 20:00,73.63,Humidity
+1/16/25 0:00,78.51,Humidity
+1/16/25 4:00,80.7,Humidity
+1/16/25 8:00,83.15,Humidity
+1/16/25 12:00,67.51,Humidity
+1/16/25 16:00,51.63,Humidity
+1/16/25 20:00,74.35,Humidity
+1/17/25 0:00,73.07,Humidity
+1/17/25 4:00,83.75,Humidity
+1/17/25 8:00,81.01,Humidity
+1/17/25 12:00,75.95,Humidity
+1/17/25 16:00,72.43,Humidity
+1/17/25 20:00,69.65,Humidity
+1/18/25 0:00,65.73,Humidity
+1/18/25 4:00,65.78,Humidity
+1/18/25 8:00,79.64,Humidity
+1/18/25 12:00,61.89,Humidity
+1/18/25 16:00,61.48,Humidity
+1/18/25 20:00,73.07,Humidity
+1/19/25 0:00,75.53,Humidity
+1/19/25 4:00,83.87,Humidity
+1/19/25 8:00,82.55,Humidity
+1/19/25 12:00,63.94,Humidity
+1/19/25 16:00,55.31,Humidity
+1/19/25 20:00,77.33,Humidity
+1/20/25 0:00,81.04,Humidity
+1/20/25 4:00,79.73,Humidity
+1/20/25 8:00,81.89,Humidity
+1/20/25 12:00,60.46,Humidity
+1/20/25 16:00,52.48,Humidity
+1/20/25 20:00,76.12,Humidity
+1/21/25 0:00,83.94,Humidity
+1/21/25 4:00,87.07,Humidity
+1/21/25 8:00,85.57,Humidity
+1/21/25 12:00,55.36,Humidity
+1/21/25 16:00,55.57,Humidity
+1/21/25 20:00,70.37,Humidity
+1/22/25 0:00,77.8,Humidity
+1/22/25 4:00,80.29,Humidity
+1/22/25 8:00,69.85,Humidity
+1/22/25 12:00,54.05,Humidity
+1/22/25 16:00,57.18,Humidity
+1/22/25 20:00,73.32,Humidity
+1/23/25 0:00,76.77,Humidity
+1/23/25 4:00,58.26,Humidity
+1/23/25 8:00,49.65,Humidity
+1/23/25 12:00,49.9,Humidity
+1/23/25 16:00,52.56,Humidity
+1/23/25 20:00,72,Humidity
+1/24/25 0:00,72.34,Humidity
+1/24/25 4:00,69.91,Humidity
+1/24/25 8:00,67.77,Humidity
+1/24/25 12:00,60.23,Humidity
+1/24/25 16:00,57.92,Humidity
+1/24/25 20:00,80.39,Humidity
+1/25/25 0:00,86.27,Humidity
+1/25/25 4:00,85.41,Humidity
+1/25/25 8:00,86.05,Humidity
+1/25/25 12:00,61.01,Humidity
+1/25/25 16:00,59.27,Humidity
+1/25/25 20:00,65.43,Humidity
+1/26/25 0:00,66.09,Humidity
+1/26/25 4:00,64.9,Humidity
+1/26/25 8:00,76.01,Humidity
+1/26/25 12:00,55.5,Humidity
+1/26/25 16:00,56.06,Humidity
+1/26/25 20:00,75.05,Humidity
+1/27/25 0:00,80.37,Humidity
+1/27/25 4:00,78.43,Humidity
+1/27/25 8:00,70.12,Humidity
+1/27/25 12:00,59.53,Humidity
+1/27/25 16:00,56.87,Humidity
+1/27/25 20:00,66.21,Humidity
+1/28/25 0:00,67.44,Humidity
+1/28/25 4:00,59.1,Humidity
+1/28/25 8:00,55.08,Humidity
+1/28/25 12:00,61.6,Humidity
+1/28/25 16:00,57.34,Humidity
+1/28/25 20:00,67.17,Humidity
+1/29/25 0:00,77.26,Humidity
+1/29/25 4:00,76.48,Humidity
+1/29/25 8:00,79.44,Humidity
+1/29/25 12:00,62.06,Humidity
+1/29/25 16:00,58.18,Humidity
+1/29/25 20:00,71.45,Humidity
+1/30/25 0:00,78.4,Humidity
+1/30/25 4:00,81.36,Humidity
+1/30/25 8:00,76.92,Humidity
+1/30/25 12:00,55.64,Humidity
+1/30/25 16:00,48.5,Humidity
+1/30/25 20:00,66.7,Humidity
+1/31/25 0:00,68.54,Humidity
+1/31/25 4:00,79.36,Humidity
+1/31/25 8:00,80.16,Humidity
+1/31/25 12:00,67.11,Humidity
+1/31/25 16:00,36.32,Humidity
+1/31/25 20:00,83.2,Humidity
+2/1/25 0:00,91.15,Humidity
+2/1/25 4:00,90.45,Humidity
+2/1/25 8:00,87.71,Humidity
+2/1/25 12:00,75.19,Humidity
+2/1/25 16:00,81.38,Humidity
+2/1/25 20:00,84.66,Humidity
+2/2/25 0:00,85.56,Humidity
+2/2/25 4:00,83.37,Humidity
+2/2/25 8:00,80.01,Humidity
+2/2/25 12:00,59.39,Humidity
+2/2/25 16:00,57.06,Humidity
+2/2/25 20:00,71.66,Humidity
+2/3/25 0:00,78.86,Humidity
+2/3/25 4:00,78.16,Humidity
+2/3/25 8:00,72.74,Humidity
+2/3/25 12:00,68.23,Humidity
+2/3/25 16:00,73.13,Humidity
+2/3/25 20:00,82.61,Humidity
+2/4/25 0:00,84.62,Humidity
+2/4/25 4:00,86.99,Humidity
+2/4/25 8:00,85.46,Humidity
+2/4/25 12:00,63.01,Humidity
+2/4/25 16:00,67.09,Humidity
+2/4/25 20:00,86.77,Humidity
+2/5/25 0:00,84.14,Humidity
+2/5/25 4:00,83.24,Humidity
+2/5/25 8:00,78.59,Humidity
+2/5/25 12:00,56.86,Humidity
+2/5/25 16:00,59.38,Humidity
+2/5/25 20:00,78.53,Humidity
+2/6/25 0:00,86.1,Humidity
+2/6/25 4:00,89.13,Humidity
+2/6/25 8:00,88.37,Humidity
+2/6/25 12:00,65.17,Humidity
+2/6/25 16:00,71.01,Humidity
+2/6/25 20:00,81.08,Humidity
+2/7/25 0:00,83.89,Humidity
+2/7/25 4:00,88.61,Humidity
+2/7/25 8:00,88.96,Humidity
+2/7/25 12:00,73.22,Humidity
+2/7/25 16:00,79.6,Humidity
+2/7/25 20:00,87.99,Humidity
+2/8/25 0:00,86.06,Humidity
+2/8/25 4:00,86.5,Humidity
+2/8/25 8:00,86.91,Humidity
+2/8/25 12:00,73.74,Humidity
+2/8/25 16:00,61.54,Humidity
+2/8/25 20:00,85.76,Humidity
+2/9/25 0:00,87.2,Humidity
+2/9/25 4:00,83.9,Humidity
+2/9/25 8:00,80.68,Humidity
+2/9/25 12:00,62.11,Humidity
+2/9/25 16:00,71.69,Humidity
+2/9/25 20:00,80.44,Humidity
+2/10/25 0:00,76.38,Humidity
+2/10/25 4:00,77.64,Humidity
+2/10/25 8:00,78.95,Humidity
+2/10/25 12:00,58.09,Humidity
+2/10/25 16:00,62.73,Humidity
+2/10/25 20:00,79.83,Humidity
+2/11/25 0:00,88.38,Humidity
+2/11/25 4:00,85.78,Humidity
+2/11/25 8:00,86.48,Humidity
+2/11/25 12:00,59.9,Humidity
+2/11/25 16:00,60.73,Humidity
+2/11/25 20:00,80.07,Humidity
+2/12/25 0:00,83.04,Humidity
+2/12/25 4:00,80.07,Humidity
+2/12/25 8:00,78.49,Humidity
+2/12/25 12:00,52.7,Humidity
+2/12/25 16:00,47.65,Humidity
+2/12/25 20:00,78.22,Humidity
+2/13/25 0:00,76.21,Humidity
+2/13/25 4:00,78.52,Humidity
+2/13/25 8:00,80.85,Humidity
+2/13/25 12:00,63.18,Humidity
+2/13/25 16:00,54.77,Humidity
+2/13/25 20:00,77.54,Humidity
+2/14/25 0:00,84.82,Humidity
+2/14/25 4:00,85.72,Humidity
+2/14/25 8:00,84.6,Humidity
+2/14/25 12:00,60.38,Humidity
+2/14/25 16:00,58.58,Humidity
+2/14/25 20:00,71.71,Humidity
+2/15/25 0:00,78.46,Humidity
+2/15/25 4:00,73.17,Humidity
+2/15/25 8:00,72.5,Humidity
+2/15/25 12:00,53.38,Humidity
+2/15/25 16:00,45.34,Humidity
+2/15/25 20:00,65.17,Humidity
+2/16/25 0:00,70.09,Humidity
+2/16/25 4:00,72.33,Humidity
+2/16/25 8:00,78.48,Humidity
+2/16/25 12:00,57.35,Humidity
+2/16/25 16:00,58.37,Humidity
+2/16/25 20:00,78.46,Humidity
+2/17/25 0:00,88.73,Humidity
+2/17/25 4:00,78.63,Humidity
+2/17/25 8:00,80.51,Humidity
+2/17/25 12:00,62.44,Humidity
+2/17/25 16:00,59.15,Humidity
+2/17/25 20:00,74.87,Humidity
+2/18/25 0:00,81.55,Humidity
+2/18/25 4:00,81.16,Humidity
+2/18/25 8:00,83.34,Humidity
+2/18/25 12:00,62.3,Humidity
+2/18/25 16:00,51.71,Humidity
+2/18/25 20:00,80.38,Humidity
+2/19/25 0:00,89.26,Humidity
+2/19/25 4:00,90.82,Humidity
+2/19/25 8:00,84.22,Humidity
+2/19/25 12:00,62.43,Humidity
+2/19/25 16:00,54.11,Humidity
+2/19/25 20:00,81.04,Humidity
+2/20/25 0:00,81.77,Humidity
+2/20/25 4:00,85.93,Humidity
+2/20/25 8:00,83.85,Humidity
+2/20/25 12:00,64.3,Humidity
+2/20/25 16:00,54.09,Humidity
+2/20/25 20:00,79.23,Humidity
+2/21/25 0:00,82.77,Humidity
+2/21/25 4:00,89.31,Humidity
+2/21/25 8:00,89.9,Humidity
+2/21/25 12:00,59.86,Humidity
+2/21/25 16:00,57.28,Humidity
+2/21/25 20:00,77.18,Humidity
+2/22/25 0:00,82.18,Humidity
+2/22/25 4:00,82.43,Humidity
+2/22/25 8:00,79.2,Humidity
+2/22/25 12:00,55.73,Humidity
+2/22/25 16:00,44.5,Humidity
+2/22/25 20:00,68.41,Humidity
+2/23/25 0:00,68.83,Humidity
+2/23/25 4:00,69.89,Humidity
+2/23/25 8:00,68.67,Humidity
+2/23/25 12:00,51.19,Humidity
+2/23/25 16:00,54.59,Humidity
+2/23/25 20:00,74.68,Humidity
+2/24/25 0:00,81.65,Humidity
+2/24/25 4:00,88.24,Humidity
+2/24/25 8:00,89.98,Humidity
+2/24/25 12:00,63.3,Humidity
+2/24/25 16:00,62.98,Humidity
+2/24/25 20:00,78,Humidity
+2/25/25 0:00,83.82,Humidity
+2/25/25 4:00,87.39,Humidity
+2/25/25 8:00,88.16,Humidity
+2/25/25 12:00,65.58,Humidity
+2/25/25 16:00,55.08,Humidity
+2/25/25 20:00,78.99,Humidity
+2/26/25 0:00,78.69,Humidity
+2/26/25 4:00,78.64,Humidity
+2/26/25 8:00,79.96,Humidity
+2/26/25 12:00,75.79,Humidity
+2/26/25 16:00,66.47,Humidity
+2/26/25 20:00,62.51,Humidity
+2/27/25 0:00,59.82,Humidity
+2/27/25 4:00,74.42,Humidity
+2/27/25 8:00,66.64,Humidity
+2/27/25 12:00,52.87,Humidity
+2/27/25 16:00,48.84,Humidity
+2/27/25 20:00,72.41,Humidity
+2/28/25 0:00,87.1,Humidity
+2/28/25 4:00,88.69,Humidity
+2/28/25 8:00,86.16,Humidity
+2/28/25 12:00,61.95,Humidity
+2/28/25 16:00,55.95,Humidity
+2/28/25 20:00,75.04,Humidity
+3/1/25 0:00,80.68,Humidity
+3/1/25 4:00,72.52,Humidity
+3/1/25 8:00,59.55,Humidity
+3/1/25 12:00,42.42,Humidity
+3/1/25 16:00,42.74,Humidity
+3/1/25 20:00,59.28,Humidity
+##########,17.47,Temperature
+##########,17.41,Temperature
+##########,20.69,Temperature
+##########,26.63,Temperature
+##########,27.57,Temperature
+##########,22.64,Temperature
+##########,20.73,Temperature
+##########,21.05,Temperature
+##########,22.27,Temperature
+##########,28.18,Temperature
+##########,24.15,Temperature
+##########,22.62,Temperature
+##########,20.61,Temperature
+##########,20.25,Temperature
+##########,22.92,Temperature
+##########,28.91,Temperature
+##########,25.3,Temperature
+##########,21.58,Temperature
+##########,20.41,Temperature
+##########,19.52,Temperature
+##########,20.35,Temperature
+##########,25.14,Temperature
+##########,24.23,Temperature
+##########,21.09,Temperature
+##########,20,Temperature
+##########,18.03,Temperature
+##########,19.59,Temperature
+##########,23.57,Temperature
+##########,22.64,Temperature
+##########,19.3,Temperature
+##########,18.54,Temperature
+##########,15.87,Temperature
+##########,18.71,Temperature
+##########,25.58,Temperature
+##########,23.71,Temperature
+##########,20.63,Temperature
+##########,19.41,Temperature
+##########,18.36,Temperature
+##########,21.5,Temperature
+##########,27.91,Temperature
+##########,26.64,Temperature
+##########,24.01,Temperature
+##########,23.58,Temperature
+##########,22.87,Temperature
+##########,24.08,Temperature
+##########,29.11,Temperature
+##########,27.89,Temperature
+##########,21.43,Temperature
+##########,19.8,Temperature
+##########,19.02,Temperature
+##########,20.63,Temperature
+##########,26.6,Temperature
+##########,25.37,Temperature
+##########,22.25,Temperature
+##########,21.04,Temperature
+##########,22.08,Temperature
+##########,23.42,Temperature
+##########,28.38,Temperature
+##########,26.43,Temperature
+##########,21.92,Temperature
+##########,21.13,Temperature
+##########,21.22,Temperature
+##########,21.75,Temperature
+##########,24.36,Temperature
+##########,24.36,Temperature
+##########,20.83,Temperature
+##########,18.88,Temperature
+##########,19.01,Temperature
+##########,20.45,Temperature
+##########,25.18,Temperature
+##########,23.6,Temperature
+##########,21.44,Temperature
+##########,19.98,Temperature
+##########,19.6,Temperature
+##########,20.81,Temperature
+##########,27.95,Temperature
+##########,28.69,Temperature
+##########,23.3,Temperature
+##########,21.21,Temperature
+##########,19.81,Temperature
+##########,21.34,Temperature
+##########,28.37,Temperature
+##########,27.14,Temperature
+##########,22.43,Temperature
+##########,20.58,Temperature
+##########,20.31,Temperature
+##########,21.24,Temperature
+##########,30.07,Temperature
+##########,28.36,Temperature
+##########,23.46,Temperature
+##########,22.12,Temperature
+##########,20.38,Temperature
+##########,21.67,Temperature
+##########,26.85,Temperature
+##########,26.87,Temperature
+##########,23.5,Temperature
+##########,22.68,Temperature
+##########,21.83,Temperature
+##########,22.13,Temperature
+##########,27.7,Temperature
+##########,25.47,Temperature
+##########,23,Temperature
+##########,20.98,Temperature
+##########,20.39,Temperature
+##########,20.26,Temperature
+##########,21.95,Temperature
+##########,19.47,Temperature
+##########,19.02,Temperature
+##########,18.77,Temperature
+##########,17.92,Temperature
+##########,17.98,Temperature
+##########,21.32,Temperature
+##########,19.58,Temperature
+##########,16.87,Temperature
+##########,17.72,Temperature
+##########,17.29,Temperature
+##########,18.22,Temperature
+##########,21.87,Temperature
+##########,20.32,Temperature
+##########,17.76,Temperature
+##########,17.29,Temperature
+##########,17.74,Temperature
+##########,18.6,Temperature
+##########,22.11,Temperature
+##########,21.14,Temperature
+##########,20.06,Temperature
+##########,19.14,Temperature
+##########,18.26,Temperature
+##########,18.92,Temperature
+##########,22.05,Temperature
+##########,21.58,Temperature
+##########,18.87,Temperature
+##########,19.73,Temperature
+##########,18.62,Temperature
+##########,19.76,Temperature
+##########,22.91,Temperature
+##########,21.08,Temperature
+##########,19.63,Temperature
+##########,18.79,Temperature
+##########,18.64,Temperature
+##########,21.24,Temperature
+##########,25.08,Temperature
+##########,23.8,Temperature
+##########,20.82,Temperature
+##########,20.85,Temperature
+##########,19.3,Temperature
+##########,21.13,Temperature
+##########,24.4,Temperature
+##########,23.33,Temperature
+##########,21.02,Temperature
+##########,20,Temperature
+##########,19.43,Temperature
+##########,21.24,Temperature
+##########,23.98,Temperature
+##########,22.53,Temperature
+##########,20.36,Temperature
+##########,18.44,Temperature
+##########,18.21,Temperature
+##########,19.53,Temperature
+##########,22.97,Temperature
+##########,21.24,Temperature
+##########,21.52,Temperature
+##########,21.16,Temperature
+##########,20.95,Temperature
+##########,22.07,Temperature
+##########,24.12,Temperature
+##########,23.18,Temperature
+##########,20.92,Temperature
+##########,20.27,Temperature
+##########,20.3,Temperature
+##########,21.4,Temperature
+##########,24.01,Temperature
+##########,23.84,Temperature
+##########,21.08,Temperature
+##########,20.08,Temperature
+##########,19.53,Temperature
+##########,20.58,Temperature
+##########,24.62,Temperature
+##########,23.41,Temperature
+##########,20.47,Temperature
+##########,20.34,Temperature
+##########,19.19,Temperature
+##########,20.75,Temperature
+##########,23.92,Temperature
+##########,23.65,Temperature
+##########,20.61,Temperature
+##########,20.22,Temperature
+##########,19.93,Temperature
+##########,21.1,Temperature
+##########,24.19,Temperature
+##########,23.03,Temperature
+##########,20.47,Temperature
+##########,19.13,Temperature
+##########,18.39,Temperature
+##########,19.08,Temperature
+##########,24.14,Temperature
+##########,23.15,Temperature
+##########,19.86,Temperature
+##########,18.7,Temperature
+##########,17.62,Temperature
+##########,18.26,Temperature
+##########,23.19,Temperature
+##########,21.47,Temperature
+##########,19.22,Temperature
+##########,19.31,Temperature
+##########,17.88,Temperature
+##########,17.68,Temperature
+##########,23.28,Temperature
+##########,22.23,Temperature
+##########,20.1,Temperature
+##########,18.19,Temperature
+##########,18.17,Temperature
+##########,18.92,Temperature
+##########,22.11,Temperature
+##########,22.18,Temperature
+##########,19.36,Temperature
+##########,19.15,Temperature
+##########,18.81,Temperature
+##########,18.84,Temperature
+##########,21.78,Temperature
+##########,21.04,Temperature
+##########,18.27,Temperature
+##########,17.25,Temperature
+##########,17.14,Temperature
+##########,17.7,Temperature
+##########,23.05,Temperature
+##########,18.54,Temperature
+##########,17.3,Temperature
+##########,16.39,Temperature
+##########,16.5,Temperature
+##########,17.48,Temperature
+##########,22.83,Temperature
+##########,22.96,Temperature
+##########,17.97,Temperature
+##########,17.85,Temperature
+##########,16.02,Temperature
+##########,16.6,Temperature
+##########,21.9,Temperature
+##########,19.92,Temperature
+##########,17.97,Temperature
+##########,17.09,Temperature
+##########,17.95,Temperature
+##########,17.19,Temperature
+##########,20.15,Temperature
+##########,17.86,Temperature
+##########,17.31,Temperature
+##########,16.07,Temperature
+##########,15.79,Temperature
+##########,15.68,Temperature
+##########,20.06,Temperature
+##########,18.63,Temperature
+##########,17.01,Temperature
+##########,16.48,Temperature
+##########,15.81,Temperature
+##########,16.07,Temperature
+##########,20.31,Temperature
+##########,17.54,Temperature
+##########,16.89,Temperature
+##########,16.19,Temperature
+##########,15.45,Temperature
+##########,15.18,Temperature
+##########,19.6,Temperature
+##########,21.05,Temperature
+##########,18.88,Temperature
+##########,15.63,Temperature
+##########,15,Temperature
+##########,14.87,Temperature
+##########,20.95,Temperature
+##########,21.73,Temperature
+##########,18.43,Temperature
+##########,16.24,Temperature
+##########,16,Temperature
+##########,16.84,Temperature
+##########,19.45,Temperature
+##########,18.85,Temperature
+##########,16.7,Temperature
+##########,14.84,Temperature
+##########,13.47,Temperature
+##########,14.56,Temperature
+##########,18.84,Temperature
+##########,19.15,Temperature
+##########,16.44,Temperature
+##########,14.86,Temperature
+##########,13.02,Temperature
+##########,13.29,Temperature
+##########,20.14,Temperature
+##########,21.54,Temperature
+##########,17.96,Temperature
+##########,14.96,Temperature
+##########,15.05,Temperature
+##########,15.6,Temperature
+##########,21.07,Temperature
+##########,21.47,Temperature
+##########,17.79,Temperature
+##########,16.54,Temperature
+##########,15.66,Temperature
+##########,15,Temperature
+##########,20.28,Temperature
+##########,21.71,Temperature
+##########,18.89,Temperature
+##########,16.65,Temperature
+##########,16.36,Temperature
+##########,17.33,Temperature
+##########,21.54,Temperature
+##########,21.61,Temperature
+##########,18.32,Temperature
+##########,17.75,Temperature
+##########,18.1,Temperature
+##########,17.1,Temperature
+##########,20.33,Temperature
+##########,20.3,Temperature
+##########,17.05,Temperature
+##########,16.3,Temperature
+##########,15.42,Temperature
+##########,15.5,Temperature
+##########,21.07,Temperature
+##########,19.25,Temperature
+##########,18.18,Temperature
+##########,15.78,Temperature
+##########,15.15,Temperature
+##########,15.26,Temperature
+##########,17.68,Temperature
+##########,17.72,Temperature
+##########,15.28,Temperature
+##########,12.72,Temperature
+##########,11.24,Temperature
+##########,12.07,Temperature
+##########,19.24,Temperature
+##########,18.98,Temperature
+##########,16.48,Temperature
+##########,15.16,Temperature
+##########,14.68,Temperature
+##########,15.38,Temperature
+##########,20.53,Temperature
+##########,20.73,Temperature
+##########,17.66,Temperature
+##########,16.42,Temperature
+##########,15.04,Temperature
+##########,13.76,Temperature
+##########,19.56,Temperature
+##########,20.31,Temperature
+##########,16.01,Temperature
+##########,14.04,Temperature
+##########,13.23,Temperature
+##########,13.05,Temperature
+##########,19.85,Temperature
+##########,20.75,Temperature
+##########,16.9,Temperature
+##########,14.14,Temperature
+##########,13.62,Temperature
+##########,15,Temperature
+##########,17.91,Temperature
+##########,20.88,Temperature
+##########,17.19,Temperature
+##########,16.58,Temperature
+##########,14.71,Temperature
+##########,14.82,Temperature
+##########,19.24,Temperature
+##########,19.37,Temperature
+##########,16.76,Temperature
+##########,16.54,Temperature
+##########,17.38,Temperature
+##########,15.94,Temperature
+##########,19.12,Temperature
+##########,17.03,Temperature
+##########,14.34,Temperature
+##########,13.68,Temperature
+##########,13,Temperature
+##########,14.11,Temperature
+##########,17.51,Temperature
+##########,17.61,Temperature
+##########,14.84,Temperature
+##########,14.03,Temperature
+##########,13.46,Temperature
+##########,13.57,Temperature
+##########,18.01,Temperature
+##########,17.96,Temperature
+##########,16.14,Temperature
+##########,15.36,Temperature
+##########,15.96,Temperature
+##########,16.15,Temperature
+##########,18.4,Temperature
+##########,18.84,Temperature
+##########,16.5,Temperature
+##########,15,Temperature
+##########,15.19,Temperature
+##########,14.3,Temperature
+##########,17.73,Temperature
+##########,18.05,Temperature
+##########,15.84,Temperature
+##########,15.19,Temperature
+##########,14.54,Temperature
+##########,14.57,Temperature
+##########,16.55,Temperature
+##########,16.47,Temperature
+##########,14.91,Temperature
+##########,15.66,Temperature
+##########,14.61,Temperature
+##########,14.43,Temperature
+##########,17.92,Temperature
+##########,17.45,Temperature
+##########,17.32,Temperature
+##########,17.49,Temperature
+##########,17.6,Temperature
+##########,17.56,Temperature
+##########,19.48,Temperature
+##########,18.53,Temperature
+##########,16.12,Temperature
+##########,16.85,Temperature
+##########,15.91,Temperature
+##########,14.27,Temperature
+##########,15.73,Temperature
+##########,14.33,Temperature
+##########,13.47,Temperature
+##########,12.6,Temperature
+##########,11.76,Temperature
+##########,11.58,Temperature
+##########,15.83,Temperature
+##########,16.62,Temperature
+##########,13.02,Temperature
+##########,11.99,Temperature
+##########,11.22,Temperature
+##########,10.76,Temperature
+##########,15.88,Temperature
+##########,15.67,Temperature
+##########,12.97,Temperature
+##########,10.31,Temperature
+##########,8.98,Temperature
+##########,8.77,Temperature
+##########,15.37,Temperature
+##########,16.28,Temperature
+##########,13.63,Temperature
+##########,11.97,Temperature
+##########,14.15,Temperature
+##########,15.25,Temperature
+##########,18.46,Temperature
+##########,18.93,Temperature
+##########,16.93,Temperature
+##########,14.72,Temperature
+##########,14.59,Temperature
+##########,14.24,Temperature
+##########,17.51,Temperature
+##########,19.19,Temperature
+##########,15.59,Temperature
+##########,13.18,Temperature
+##########,11.37,Temperature
+##########,11.86,Temperature
+##########,17.51,Temperature
+##########,18.88,Temperature
+##########,15.68,Temperature
+##########,13.91,Temperature
+##########,13.85,Temperature
+##########,13.8,Temperature
+##########,15.6,Temperature
+##########,14.42,Temperature
+##########,13.64,Temperature
+##########,13.72,Temperature
+##########,13.26,Temperature
+##########,13.79,Temperature
+##########,17.38,Temperature
+##########,16.74,Temperature
+##########,14.42,Temperature
+##########,13.9,Temperature
+##########,13.02,Temperature
+##########,12.75,Temperature
+##########,16.77,Temperature
+##########,16.22,Temperature
+##########,14.62,Temperature
+##########,12.04,Temperature
+##########,11.15,Temperature
+##########,9.77,Temperature
+##########,15.59,Temperature
+##########,17.01,Temperature
+##########,13.45,Temperature
+##########,12.54,Temperature
+##########,11.13,Temperature
+##########,11.28,Temperature
+##########,16.81,Temperature
+##########,17.03,Temperature
+##########,14.95,Temperature
+##########,16.45,Temperature
+##########,17.03,Temperature
+##########,15.24,Temperature
+##########,16.18,Temperature
+##########,15.89,Temperature
+##########,15.16,Temperature
+##########,14.25,Temperature
+##########,13.97,Temperature
+##########,14.42,Temperature
+##########,16.1,Temperature
+##########,15.92,Temperature
+##########,13.9,Temperature
+##########,13.56,Temperature
+##########,13.54,Temperature
+##########,13.27,Temperature
+##########,16.14,Temperature
+##########,15.98,Temperature
+##########,14.2,Temperature
+##########,12.76,Temperature
+##########,13.37,Temperature
+##########,13.19,Temperature
+##########,15.49,Temperature
+##########,15.08,Temperature
+##########,12.5,Temperature
+##########,11.95,Temperature
+##########,11.66,Temperature
+##########,11.84,Temperature
+##########,16.14,Temperature
+##########,14.76,Temperature
+##########,12.82,Temperature
+##########,12.61,Temperature
+##########,11.45,Temperature
+##########,12.53,Temperature
+##########,14.06,Temperature
+##########,14.26,Temperature
+##########,12.66,Temperature
+##########,12.61,Temperature
+##########,11.71,Temperature
+##########,13.08,Temperature
+##########,14.85,Temperature
+##########,14.95,Temperature
+##########,12.86,Temperature
+##########,12.5,Temperature
+##########,12.59,Temperature
+##########,12.56,Temperature
+##########,15.33,Temperature
+##########,14.89,Temperature
+##########,13.09,Temperature
+##########,13.08,Temperature
+##########,13.24,Temperature
+##########,12.62,Temperature
+##########,16.11,Temperature
+##########,16.79,Temperature
+##########,13.54,Temperature
+##########,12.38,Temperature
+##########,11.78,Temperature
+##########,11.67,Temperature
+##########,16.59,Temperature
+##########,17.43,Temperature
+##########,13.34,Temperature
+##########,11.58,Temperature
+##########,10.54,Temperature
+##########,10.17,Temperature
+##########,15.98,Temperature
+##########,16.49,Temperature
+##########,14.07,Temperature
+##########,12.17,Temperature
+##########,10.29,Temperature
+##########,9.6,Temperature
+##########,15.26,Temperature
+##########,16.08,Temperature
+##########,13.96,Temperature
+1/1/25 0:00,13.2,Temperature
+1/1/25 4:00,12.15,Temperature
+1/1/25 8:00,11.76,Temperature
+##########,16.97,Temperature
+##########,16.63,Temperature
+##########,14.55,Temperature
+1/2/25 0:00,13.79,Temperature
+1/2/25 4:00,13.09,Temperature
+1/2/25 8:00,13.38,Temperature
+##########,17.51,Temperature
+##########,16.79,Temperature
+##########,14.63,Temperature
+1/3/25 0:00,12.2,Temperature
+1/3/25 4:00,11.34,Temperature
+1/3/25 8:00,10.63,Temperature
+##########,15.62,Temperature
+##########,17.64,Temperature
+##########,14.27,Temperature
+1/4/25 0:00,14.17,Temperature
+1/4/25 4:00,14.06,Temperature
+1/4/25 8:00,13.96,Temperature
+##########,17.13,Temperature
+##########,16.86,Temperature
+##########,15.07,Temperature
+1/5/25 0:00,13.76,Temperature
+1/5/25 4:00,13.17,Temperature
+1/5/25 8:00,12.52,Temperature
+##########,17.27,Temperature
+##########,19.41,Temperature
+##########,15.34,Temperature
+1/6/25 0:00,13.6,Temperature
+1/6/25 4:00,12.48,Temperature
+1/6/25 8:00,13,Temperature
+##########,17.44,Temperature
+##########,18.93,Temperature
+##########,16.45,Temperature
+1/7/25 0:00,15.02,Temperature
+1/7/25 4:00,13.5,Temperature
+1/7/25 8:00,12.43,Temperature
+##########,17.49,Temperature
+##########,17.05,Temperature
+##########,14.99,Temperature
+1/8/25 0:00,14.26,Temperature
+1/8/25 4:00,12.82,Temperature
+1/8/25 8:00,11.75,Temperature
+##########,16.61,Temperature
+##########,17.59,Temperature
+##########,13.95,Temperature
+1/9/25 0:00,11.75,Temperature
+1/9/25 4:00,11.28,Temperature
+1/9/25 8:00,11.06,Temperature
+##########,17.38,Temperature
+##########,18.74,Temperature
+##########,16.69,Temperature
+##########,14.23,Temperature
+##########,14.9,Temperature
+##########,14.26,Temperature
+##########,18.45,Temperature
+##########,18.75,Temperature
+##########,16.22,Temperature
+##########,14.91,Temperature
+##########,14.35,Temperature
+##########,13.43,Temperature
+##########,18.04,Temperature
+##########,18.08,Temperature
+##########,16.61,Temperature
+##########,15.84,Temperature
+##########,14.79,Temperature
+##########,14.76,Temperature
+##########,16.41,Temperature
+##########,15.61,Temperature
+##########,12.92,Temperature
+##########,12.94,Temperature
+##########,11.89,Temperature
+##########,11.78,Temperature
+##########,13.19,Temperature
+##########,12.95,Temperature
+##########,12.34,Temperature
+##########,11.32,Temperature
+##########,11.39,Temperature
+##########,12.12,Temperature
+##########,13.51,Temperature
+##########,14.64,Temperature
+##########,13.58,Temperature
+##########,13.44,Temperature
+##########,12,Temperature
+##########,11.56,Temperature
+##########,14.09,Temperature
+##########,14.62,Temperature
+##########,11.58,Temperature
+##########,11.83,Temperature
+##########,11.4,Temperature
+##########,10.51,Temperature
+##########,14.53,Temperature
+##########,15.62,Temperature
+##########,12.6,Temperature
+##########,12.9,Temperature
+##########,13.67,Temperature
+##########,13.96,Temperature
+##########,16.68,Temperature
+##########,13.13,Temperature
+##########,11.41,Temperature
+##########,12.94,Temperature
+##########,12.54,Temperature
+##########,12.14,Temperature
+##########,14.38,Temperature
+##########,14.79,Temperature
+##########,13.17,Temperature
+##########,12.89,Temperature
+##########,11.27,Temperature
+##########,10.69,Temperature
+##########,16.27,Temperature
+##########,17.12,Temperature
+##########,13.3,Temperature
+##########,12.81,Temperature
+##########,12.41,Temperature
+##########,11.79,Temperature
+##########,16.18,Temperature
+##########,17.11,Temperature
+##########,13.7,Temperature
+##########,11.86,Temperature
+##########,9.86,Temperature
+##########,9.55,Temperature
+##########,16.21,Temperature
+##########,17.28,Temperature
+##########,15.97,Temperature
+##########,13.13,Temperature
+##########,11.7,Temperature
+##########,12.41,Temperature
+##########,18.76,Temperature
+##########,20.08,Temperature
+##########,15.35,Temperature
+##########,14.28,Temperature
+##########,14.63,Temperature
+##########,14.35,Temperature
+##########,19.42,Temperature
+##########,19.61,Temperature
+##########,15.23,Temperature
+##########,13.26,Temperature
+##########,12.9,Temperature
+##########,13.06,Temperature
+##########,19.13,Temperature
+##########,19.64,Temperature
+##########,15,Temperature
+##########,12.76,Temperature
+##########,12.22,Temperature
+##########,10.92,Temperature
+##########,19.01,Temperature
+##########,18.62,Temperature
+##########,16.88,Temperature
+##########,15.34,Temperature
+##########,15.87,Temperature
+##########,14.13,Temperature
+##########,18.68,Temperature
+##########,19.5,Temperature
+##########,15.4,Temperature
+##########,14.25,Temperature
+##########,12.91,Temperature
+##########,13.1,Temperature
+##########,19.01,Temperature
+##########,20.15,Temperature
+##########,15.72,Temperature
+##########,15.27,Temperature
+##########,15.06,Temperature
+##########,15.61,Temperature
+##########,19.36,Temperature
+##########,18.83,Temperature
+##########,16.2,Temperature
+##########,14.88,Temperature
+##########,13.25,Temperature
+##########,12.4,Temperature
+##########,15.73,Temperature
+##########,16.39,Temperature
+##########,14.09,Temperature
+##########,12.65,Temperature
+##########,11.47,Temperature
+##########,11.48,Temperature
+##########,17.18,Temperature
+##########,18.94,Temperature
+##########,14.54,Temperature
+##########,13.7,Temperature
+##########,11.21,Temperature
+##########,11.34,Temperature
+##########,17.22,Temperature
+##########,19.14,Temperature
+##########,15.04,Temperature
+2/1/25 0:00,12.76,Temperature
+2/1/25 4:00,12.38,Temperature
+2/1/25 8:00,12.88,Temperature
+##########,15.74,Temperature
+##########,14.98,Temperature
+##########,14.57,Temperature
+2/2/25 0:00,13.94,Temperature
+2/2/25 4:00,11.66,Temperature
+2/2/25 8:00,13.31,Temperature
+##########,16.25,Temperature
+##########,16.38,Temperature
+##########,13.73,Temperature
+2/3/25 0:00,12.01,Temperature
+2/3/25 4:00,11.95,Temperature
+2/3/25 8:00,11.2,Temperature
+##########,14.65,Temperature
+##########,15.83,Temperature
+##########,14.04,Temperature
+2/4/25 0:00,13.81,Temperature
+2/4/25 4:00,12.7,Temperature
+2/4/25 8:00,13.08,Temperature
+##########,16.6,Temperature
+##########,16.63,Temperature
+##########,13.88,Temperature
+2/5/25 0:00,13.3,Temperature
+2/5/25 4:00,12.89,Temperature
+2/5/25 8:00,12.81,Temperature
+##########,17.04,Temperature
+##########,16.94,Temperature
+##########,13.73,Temperature
+2/6/25 0:00,12.33,Temperature
+2/6/25 4:00,11.47,Temperature
+2/6/25 8:00,11.06,Temperature
+##########,16.36,Temperature
+##########,15.79,Temperature
+##########,13.12,Temperature
+2/7/25 0:00,12.17,Temperature
+2/7/25 4:00,10.27,Temperature
+2/7/25 8:00,10.55,Temperature
+##########,15,Temperature
+##########,14.58,Temperature
+##########,13.18,Temperature
+2/8/25 0:00,13.33,Temperature
+2/8/25 4:00,13.76,Temperature
+2/8/25 8:00,13.8,Temperature
+##########,15.46,Temperature
+##########,16.54,Temperature
+##########,14.18,Temperature
+2/9/25 0:00,11.77,Temperature
+2/9/25 4:00,12.51,Temperature
+2/9/25 8:00,13.65,Temperature
+##########,14.79,Temperature
+##########,14.73,Temperature
+##########,13.81,Temperature
+##########,13.2,Temperature
+##########,12.79,Temperature
+##########,12.69,Temperature
+##########,17.3,Temperature
+##########,16.25,Temperature
+##########,14.37,Temperature
+##########,12.12,Temperature
+##########,12.88,Temperature
+##########,13.14,Temperature
+##########,17.77,Temperature
+##########,17.43,Temperature
+##########,14.47,Temperature
+##########,13.57,Temperature
+##########,12.9,Temperature
+##########,12.34,Temperature
+##########,19.12,Temperature
+##########,19.31,Temperature
+##########,15.62,Temperature
+##########,13.77,Temperature
+##########,12.94,Temperature
+##########,13.52,Temperature
+##########,17.43,Temperature
+##########,18.55,Temperature
+##########,15.96,Temperature
+##########,14.54,Temperature
+##########,13.6,Temperature
+##########,12.47,Temperature
+##########,17.14,Temperature
+##########,16.88,Temperature
+##########,14.89,Temperature
+##########,13.28,Temperature
+##########,13.57,Temperature
+##########,13.3,Temperature
+##########,16.3,Temperature
+##########,16.51,Temperature
+##########,13.76,Temperature
+##########,12.95,Temperature
+##########,12.46,Temperature
+##########,11.87,Temperature
+##########,17.07,Temperature
+##########,17.53,Temperature
+##########,14.35,Temperature
+##########,12.41,Temperature
+##########,11.2,Temperature
+##########,10.9,Temperature
+##########,17.5,Temperature
+##########,17.26,Temperature
+##########,14.61,Temperature
+##########,12.85,Temperature
+##########,12.07,Temperature
+##########,11.9,Temperature
+##########,17.39,Temperature
+##########,18.59,Temperature
+##########,14.27,Temperature
+##########,12.91,Temperature
+##########,11.95,Temperature
+##########,12.68,Temperature
+##########,18.77,Temperature
+##########,19.41,Temperature
+##########,14.88,Temperature
+##########,14.38,Temperature
+##########,12.76,Temperature
+##########,12.88,Temperature
+##########,19.27,Temperature
+##########,20.02,Temperature
+##########,14.78,Temperature
+##########,14.11,Temperature
+##########,13.75,Temperature
+##########,12.47,Temperature
+##########,17.56,Temperature
+##########,18.22,Temperature
+##########,14.92,Temperature
+##########,14.46,Temperature
+##########,13.46,Temperature
+##########,14,Temperature
+##########,18.62,Temperature
+##########,19.42,Temperature
+##########,15.96,Temperature
+##########,15.42,Temperature
+##########,13.99,Temperature
+##########,14.01,Temperature
+##########,17.95,Temperature
+##########,18.32,Temperature
+##########,15.75,Temperature
+##########,14.56,Temperature
+##########,13.48,Temperature
+##########,14.02,Temperature
+##########,18.38,Temperature
+##########,18.03,Temperature
+##########,16.06,Temperature
+##########,14.71,Temperature
+##########,14,Temperature
+##########,13.28,Temperature
+##########,17.73,Temperature
+##########,19.31,Temperature
+##########,16.66,Temperature
+##########,15.54,Temperature
+##########,15.08,Temperature
+##########,14.38,Temperature
+##########,16.38,Temperature
+##########,15.84,Temperature
+##########,14.44,Temperature
+##########,13.16,Temperature
+##########,12.19,Temperature
+##########,13.1,Temperature
+##########,17.17,Temperature
+##########,18.22,Temperature
+##########,14.98,Temperature
+##########,11.95,Temperature
+##########,11.24,Temperature
+##########,11.25,Temperature
+##########,17.65,Temperature
+##########,19.88,Temperature
+##########,16.52,Temperature
+3/1/25 0:00,13.69,Temperature
+3/1/25 4:00,13.01,Temperature
+3/1/25 8:00,14.72,Temperature
+##########,20.75,Temperature
+##########,20.86,Temperature
+##########,17.28,Temperature
+,,
